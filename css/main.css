@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family: "Tangerine", cursive;
+  font-family: "Libre Franklin", sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,6 +19,7 @@ html {
 
 h1 {
   font-size: 3em;
+  font-family: "Tangerine", cursive;
 }
 
 .masthead {
@@ -30,7 +31,7 @@ h1 {
   position: relative;
   background-color: rgb(103, 82, 47);
   z-index: 2;
-  font-family: "Libre Franklin", sans-serif;
+
 }
 
 .nav a {
@@ -58,5 +59,30 @@ h1 {
   color: white;
   width: 100%;
   font-weight: bold;
-  font-family: "Libre Franklin", sans-serif;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+a {
+  color: rgb(103, 82, 47);
+}
+
+.card {
+  background-color: #ede3db;
+  border: 2px solid rgb(103, 82, 47);
+  border-radius: 8px;
+}
+
+h2{
+  color: rgb(66, 47, 15);
+}
+
+h3 {
+  font-family: "Tangerine", cursive;
+}
+
+h4 {
+  text-decoration: underline;
 }
