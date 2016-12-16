@@ -47,13 +47,6 @@ a {
   list-style: none;
 }
 
-.nav a:hover {
-  background-image: url("../images/leaf-icon.svg");
-  background-size: 64px;
-  background-repeat: no-repeat;
-  background-position: .75em center;
-}
-
 .nav a:hover,
 .nav a:focus {
   background-color: #fff;
