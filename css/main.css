@@ -62,7 +62,7 @@ h1 {
 }
 
 main {
-  background-color: #B49562
+  background-color: #b49562
 }
 
 .img-flex {
@@ -80,6 +80,7 @@ a {
 }
 
 h2{
+  text-align: center;
   color: rgb(66, 47, 15);
 }
 
@@ -97,7 +98,7 @@ tbody th {
 }
 
 tbody tr:nth-child(odd) {
-  background-color: #B49562;
+  background-color: #b49562;
 }
 
 .day {
@@ -116,12 +117,12 @@ tbody tr:nth-child(odd) {
 }
 
 .footer {
-  background-color: #B49562;
+  background-color: #b49562;
 }
 
 tfoot {
   font-weight: bold;
-  background-color: #B49562;
+  background-color: #b49562;
 }
 
 table {
@@ -129,7 +130,7 @@ table {
 }
 
 .btn {
-  background-color: #B49562;
+  background-color: #b49562;
   border-color: #ede3db;
   font-family: "Tangerine", cursive;
   padding: 0.25em 2em 0.25em 2em;
