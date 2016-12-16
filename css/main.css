@@ -25,6 +25,7 @@ h1 {
 .masthead {
   background-color: rgb(66, 47, 15);
   color: #fff;
+  background-image: url("../images/chocolate-bg.svg");
 }
 
 .nav {
@@ -44,6 +45,13 @@ a {
   color: #fff;
   text-decoration: none;
   list-style: none;
+}
+
+.nav a:hover {
+  background-image: url("../images/leaf-icon.svg");
+  background-size: 64px;
+  background-repeat: no-repeat;
+  background-position: .75em center;
 }
 
 .nav a:hover,
