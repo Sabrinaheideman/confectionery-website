@@ -123,6 +123,10 @@ tbody tr:nth-child(odd) {
   background-color: #b49562;
 }
 
+.footer {
+  background-color: rgb(103, 82, 47);
+}
+
 tfoot {
   font-weight: bold;
   background-color: #b49562;
